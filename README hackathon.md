@@ -57,3 +57,7 @@ $from PIL import ImageTk, Image
 $import numpy as np
 
 $import pickle
+
+To run this application go to:
+
+App>>new_1.py
